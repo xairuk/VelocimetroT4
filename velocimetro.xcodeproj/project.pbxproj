@@ -47,6 +47,7 @@
 		09F07C3D1BF4586D0061BC86 /* velocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = velocimetroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		09F07C411BF4586D0061BC86 /* velocimetroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = velocimetroUITests.swift; sourceTree = "<group>"; };
 		09F07C431BF4586D0061BC86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09F07C4F1BF4597B0061BC86 /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = velocimetro.playground; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				09F07C281BF4586D0061BC86 /* Assets.xcassets */,
 				09F07C2A1BF4586D0061BC86 /* LaunchScreen.storyboard */,
 				09F07C2D1BF4586D0061BC86 /* Info.plist */,
+				09F07C4F1BF4597B0061BC86 /* velocimetro.playground */,
 			);
 			path = velocimetro;
 			sourceTree = "<group>";
