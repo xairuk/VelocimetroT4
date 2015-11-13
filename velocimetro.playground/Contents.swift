@@ -3,4 +3,10 @@
 
 import UIKit
 
-var str = "Hello, Krizz"
+enum velocidades : Int {
+    case
+    Apagado = 0,
+    VelocidadBaja = 20,
+    VelodidadMedia = 50,
+    VelocidadAlta = 120
+}
