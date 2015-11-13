@@ -10,3 +10,6 @@ enum velocidades : Int {
     VelodidadMedia = 50,
     VelocidadAlta = 120
 }
+
+var velocidad = velocidades.Apagado
+velocidad.rawValue
